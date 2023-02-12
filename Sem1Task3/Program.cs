@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите день недели!");
 string? Lineday =Console.ReadLine();
-if (Lineday!=null);
+if (Lineday!=null)
 {
    int day = int.Parse(Lineday); // вводим переменную, преобразуем строку в число
    string[] dayWeek = new string [7];// вводим новую переменную dayWeek и создаем массив
