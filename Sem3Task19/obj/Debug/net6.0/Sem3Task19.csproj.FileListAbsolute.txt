@@ -1,0 +1,15 @@
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.csproj.AssemblyReference.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.AssemblyInfoInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.AssemblyInfo.cs
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.csproj.CoreCompileInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\bin\Debug\net6.0\Sem3Task19.exe
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\bin\Debug\net6.0\Sem3Task19.deps.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\bin\Debug\net6.0\Sem3Task19.runtimeconfig.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\bin\Debug\net6.0\Sem3Task19.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\bin\Debug\net6.0\Sem3Task19.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\refint\Sem3Task19.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\Sem3Task19.genruntimeconfig.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem3Task19\obj\Debug\net6.0\ref\Sem3Task19.dll
