@@ -1,0 +1,15 @@
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\bin\Debug\net6.0\Sem4Task28.exe
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\bin\Debug\net6.0\Sem4Task28.deps.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\bin\Debug\net6.0\Sem4Task28.runtimeconfig.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\bin\Debug\net6.0\Sem4Task28.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\bin\Debug\net6.0\Sem4Task28.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.csproj.AssemblyReference.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.AssemblyInfoInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.AssemblyInfo.cs
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.csproj.CoreCompileInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\refint\Sem4Task28.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\Sem4Task28.genruntimeconfig.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem4Task28\obj\Debug\net6.0\ref\Sem4Task28.dll
