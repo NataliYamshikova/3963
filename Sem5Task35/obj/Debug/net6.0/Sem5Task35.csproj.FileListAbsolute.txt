@@ -1,0 +1,15 @@
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.csproj.AssemblyReference.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.AssemblyInfoInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.AssemblyInfo.cs
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.csproj.CoreCompileInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\bin\Debug\net6.0\Sem5Task35.exe
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\bin\Debug\net6.0\Sem5Task35.deps.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\bin\Debug\net6.0\Sem5Task35.runtimeconfig.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\bin\Debug\net6.0\Sem5Task35.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\bin\Debug\net6.0\Sem5Task35.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\refint\Sem5Task35.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\Sem5Task35.genruntimeconfig.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem5Task35\obj\Debug\net6.0\ref\Sem5Task35.dll
