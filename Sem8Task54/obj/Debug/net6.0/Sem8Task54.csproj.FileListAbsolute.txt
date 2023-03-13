@@ -1,0 +1,15 @@
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.csproj.AssemblyReference.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.AssemblyInfoInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.AssemblyInfo.cs
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.csproj.CoreCompileInputs.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\bin\Debug\net6.0\Sem8Task54.exe
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\bin\Debug\net6.0\Sem8Task54.deps.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\bin\Debug\net6.0\Sem8Task54.runtimeconfig.json
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\bin\Debug\net6.0\Sem8Task54.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\bin\Debug\net6.0\Sem8Task54.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\refint\Sem8Task54.dll
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.pdb
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\Sem8Task54.genruntimeconfig.cache
+D:\ГИГБРЕЙНС\Введение в программирование\SEMINAR\3963\Sem8Task54\obj\Debug\net6.0\ref\Sem8Task54.dll
